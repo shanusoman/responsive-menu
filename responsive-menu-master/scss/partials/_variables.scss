@@ -1,0 +1,31 @@
+// Brand colors
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+$gray-light: #707070    !default;
+$gray:       #464646 !default;
+$gray-dark:  #333    !default;
+// Line height
+
+// Font stack
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+$body-font: Arial,Helvetica, sans-serif !default;
+
+// The base body size
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+$body-font-size: 14px !default;
+
+
+// Breakpoints
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+
+$lg-320    	: "min-width: 320px";
+$lg-480   	: "min-width: 480px";
+$lg-768    	: "min-width: 768px";
+$lg-992   	: "min-width: 992px";
+$lg-1024   	: "min-width: 1024px";
+$lg-1200 	: "min-width: 1200px";
+
+$sm-479   	: "max-width: 479px";
+$sm-767    	: "max-width: 767px";
+$sm-991   	: "max-width: 991px";
+$sm-1023   	: "max-width: 1023px";
+$sm-1199 	: "max-width: 1199px";
